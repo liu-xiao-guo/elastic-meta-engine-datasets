@@ -1,0 +1,54 @@
+[
+  {
+    "description": "Covering most of Mount Desert Island and other coastal islands, Acadia features the tallest mountain on the Atlantic coast of the United States, granite peaks, ocean shoreline, woodlands, and lakes. There are freshwater, estuary, forest, and intertidal habitats.",
+    "nps_link": "https://www.nps.gov/acad/index.htm",
+    "states": ["Maine"],
+    "title": "Acadia",
+    "id": "park_acadia",
+    "visitors": 3303393,
+    "world_heritage_site": false,
+    "location": "44.35,-68.21",
+    "acres": 49057.36,
+    "square_km": 198.5,
+    "date_established": "1919-02-26T06:00:00Z"
+  },
+  {
+    "description": "Located in Biscayne Bay, this park at the north end of the Florida Keys has four interrelated marine ecosystems: mangrove forest, the Bay, the Keys, and coral reefs. Threatened animals include the West Indian manatee, American crocodile, various sea turtles, and peregrine falcon.",
+    "nps_link": "https://www.nps.gov/bisc/index.htm",
+    "states": ["Florida"],
+    "title": "Biscayne",
+    "id": "park_biscayne",
+    "visitors": 514709,
+    "world_heritage_site": false,
+    "location": "25.65,-80.08",
+    "acres": 172971.11,
+    "square_km": 700.0,
+    "date_established": "1980-06-28T05:00:00Z"
+  },
+  {
+    "description": "On the Congaree River, this park is the largest portion of old-growth floodplain forest left in North America. Some of the trees are the tallest in the eastern United States. An elevated walkway called the Boardwalk Loop guides visitors through the swamp.",
+    "nps_link": "https://www.nps.gov/cong/index.htm",
+    "states": ["South Carolina"],
+    "title": "Congaree",
+    "id": "park_congaree",
+    "visitors": 143843,
+    "world_heritage_site": false,
+    "location": "33.78,-80.78",
+    "acres": 26275.82,
+    "square_km": 106.3,
+    "date_established": "2003-11-10T06:00:00Z"
+  },
+  {
+    "description": "The islands of the Dry Tortugas, at the westernmost end of the Florida Keys, are the site of Fort Jefferson, a Civil War-era fort that is the largest masonry structure in the Western Hemisphere. With most of the park being remote ocean, it is home to undisturbed coral reefs and shipwrecks and is only accessible by plane or boat.",
+    "nps_link": "https://www.nps.gov/drto/index.htm",
+    "states": ["Florida"],
+    "title": "Dry Tortugas",
+    "id": "park_dry-tortugas",
+    "visitors": 73661,
+    "world_heritage_site": false,
+    "location": "24.63,-82.87",
+    "acres": 64701.22,
+    "square_km": 261.8,
+    "date_established": "1992-10-26T06:00:00Z"
+  }
+]

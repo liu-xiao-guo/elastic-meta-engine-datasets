@@ -1,0 +1,93 @@
+[
+  {
+    "description": "This site features more than 2,000 natural sandstone arches, with some of the most popular arches in the park being Delicate Arch, Landscape Arch and Double Arch. Millions of years of erosion have created these structures located in a desert climate where the arid ground has life-sustaining biological soil crusts and potholes that serve as natural water-collecting basins. Other geologic formations include stone pinnacles, fins, and balancing rocks.",
+    "nps_link": "https://www.nps.gov/arch/index.htm",
+    "states": ["Utah"],
+    "title": "Arches",
+    "id": "park_arches",
+    "visitors": 1585718,
+    "world_heritage_site": false,
+    "location": "38.68,-109.57",
+    "acres": 76678.98,
+    "square_km": 310.3,
+    "date_established": "1971-11-12T06:00:00Z"
+  },
+  {
+    "description": "The park protects a quarter of the Gunnison River, which slices sheer canyon walls from dark Precambrian-era rock. The canyon features some of the steepest cliffs and oldest rock in North America, and is a popular site for river rafting and rock climbing. The deep, narrow canyon is composed of gneiss and schist which appears black when in shadow.",
+    "nps_link": "https://www.nps.gov/blca/index.htm",
+    "states": ["Colorado"],
+    "title": "Black Canyon of the Gunnison",
+    "id": "park_black-canyon-of-the-gunnison",
+    "visitors": 238018,
+    "world_heritage_site": false,
+    "location": "38.57,-107.72",
+    "acres": 30749.75,
+    "square_km": 124.4,
+    "date_established": "1999-10-21T05:00:00Z"
+  },
+  {
+    "description": "Bryce Canyon is a geological amphitheater on the Paunsaugunt Plateau with hundreds of tall, multicolored sandstone hoodoos formed by erosion. The region was originally settled by Native Americans and later by Mormon pioneers.",
+    "nps_link": "https://www.nps.gov/brca/index.htm",
+    "states": ["Utah"],
+    "title": "Bryce Canyon",
+    "id": "park_bryce-canyon",
+    "visitors": 2365110,
+    "world_heritage_site": false,
+    "location": "37.57,-112.18",
+    "acres": 35835.08,
+    "square_km": 145.0,
+    "date_established": "1928-02-25T06:00:00Z"
+  },
+  {
+    "description": "This landscape was eroded into a maze of canyons, buttes, and mesas by the combined efforts of the Colorado River, Green River, and their tributaries, which divide the park into three districts. The park also contains rock pinnacles and arches, as well as artifacts from Ancient Pueblo peoples.",
+    "nps_link": "https://www.nps.gov/cany/index.htm",
+    "states": ["Utah"],
+    "title": "Canyonlands",
+    "id": "park_canyonlands",
+    "visitors": 776218,
+    "world_heritage_site": false,
+    "location": "38.2,-109.93",
+    "acres": 337597.83,
+    "square_km": 1366.2,
+    "date_established": "1964-09-12T05:00:00Z"
+  },
+  {
+    "description": "The park's Waterpocket Fold is a 100-mile (160 km) monocline that exhibits the earth's diverse geologic layers. Other natural features include monoliths, cliffs, and sandstone domes shaped like the United States Capitol.",
+    "nps_link": "https://www.nps.gov/care/index.htm",
+    "states": ["Utah"],
+    "title": "Capitol Reef",
+    "id": "park_capitol-reef",
+    "visitors": 1064904,
+    "world_heritage_site": false,
+    "location": "38.2,-111.17",
+    "acres": 241904.26,
+    "square_km": 979.0,
+    "date_established": "1971-12-18T06:00:00Z"
+  },
+  {
+    "description": "Carlsbad Caverns has 117 caves, the longest of which is over 120 miles (190 km) long. The Big Room is almost 4,000 feet (1,200 m) long, and the caves are home to over 400,000 Mexican free-tailed bats and sixteen other species. Above ground are the Chihuahuan Desert and Rattlesnake Springs.",
+    "nps_link": "https://www.nps.gov/cave/index.htm",
+    "states": ["New Mexico"],
+    "title": "Carlsbad Caverns",
+    "id": "park_carlsbad-caverns",
+    "visitors": 466773,
+    "world_heritage_site": true,
+    "location": "32.17,-104.44",
+    "acres": 46766.45,
+    "square_km": 189.3,
+    "date_established": "1930-05-14T05:00:00Z"
+  },
+  {
+    "description": "Five of the eight Channel Islands are protected, and half of the park's area is underwater. The islands have a unique Mediterranean ecosystem originally settled by the Chumash people. They are home to over 2,000 species of land plants and animals, and 145 are unique to them, including the island fox. Ferry services offer transportation to the islands from the mainland.",
+    "nps_link": "https://www.nps.gov/chis/index.htm",
+    "states": ["California"],
+    "title": "Channel Islands",
+    "id": "park_channel-islands",
+    "visitors": 364807,
+    "world_heritage_site": false,
+    "location": "34.01,-119.42",
+    "acres": 249561.0,
+    "square_km": 1009.9,
+    "date_established": "1980-03-05T06:00:00Z"
+  }
+]
